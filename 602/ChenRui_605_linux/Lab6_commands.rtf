@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf100
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\csgray\c0;\csgray\c100000;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \cb3 \CocoaLigature0 cowsay "Hello EC605 from ruirui" > Lab6_cowsaid\
+\
+chenruideMacBook-Pro:permissions chenrui$ chmod o+r Lab6_hello.c\
+chenruideMacBook-Pro:permissions chenrui$ ls -l Lab6_hello.c\
+-rw-r--r--  1 chenrui  wheel  73 11 19 16:28 Lab6_hello.c\
+\
+chenruideMacBook-Pro:ChenRui_605_linux chenrui$ gcc -o fork Lab6_fork.c\
+chenruideMacBook-Pro:ChenRui_605_linux chenrui$ ./fork > test1\
+chenruideMacBook-Pro:ChenRui_605_linux chenrui$ ./fork > test2\
+chenruideMacBook-Pro:ChenRui_605_linux chenrui$ ./fork > test3\
+chenruideMacBook-Pro:ChenRui_605_linux chenrui$ cat test1 test2 test3 > test\
+chenruideMacBook-Pro:ChenRui_605_linux chenrui$ grep "^Child" test > Lab6_fork_child\
+chenruideMacBook-Pro:ChenRui_605_linux chenrui$ grep "^Parent" test > Lab6_fork_parent}

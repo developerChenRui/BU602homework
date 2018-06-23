@@ -1,0 +1,8 @@
+/Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/app11.png /Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/kiwi13.png
+/Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/apple5.png /Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/cherr6.png
+/Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/apple7.png
+/Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/apple9.png /Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/cherr2.png /Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/cherry3.png /Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/grap12.png
+/Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/banan0.png /Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/rasberry1.png
+/Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/kiw10.png
+/Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/kiwi8.png
+/Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/ras14.png /Users/chenrui/Desktop/602/ChenRui_hw9/duplicate_examples/zero/rasberr4.png
